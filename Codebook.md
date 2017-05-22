@@ -1,13 +1,10 @@
-This code book summarizes the fields produced by run_analysis.r 
-
-##CodeBook
-
+This codebook summarizes the fields produced by run_analysis.r 
 ## Ids
-
 *Subject - The ID num of subject
 *Activtiy - What activity was being performed in this measurement
 
 ##Measurements
+
 ..*BodyAccAverageX 
 ..*tBodyAccAverageY 
 ..*tBodyAccAverageZ 
